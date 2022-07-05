@@ -8,12 +8,14 @@ import Testimonials from './components/testimonials/Testimonials'
 import Experience from './components/experience/Experience'
 import Services from './components/services/Services'
 import Portfolio from './components/portfolio/Portfolio'
+import About from './components/about/About'
 
 const App = () => {
   return (
     <>
         <Header />
         <Nav />
+        <About/>
         <Experience />
         < Services/>
         <Portfolio />
