@@ -34,10 +34,10 @@ html {
 }
 body {
     font-family: "Poppins", sans-serif;
-    background: var(--color-bg);
+    background:  rgb(34, 1, 66); 
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/bg-texture.png);
+    
 }
 
 /* ============== General Stlyles ================== */

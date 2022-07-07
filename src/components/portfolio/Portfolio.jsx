@@ -19,9 +19,9 @@ const data = [
 {
   id: 2,
   image:IMG2,
-  title: 'Crypto Currency Dashboard & Financial Visulaization',
-  github: 'https://github.com',
-  demo: 'https://dribbble.com/shots/16673715-Crypto-cuurency-dashboard-and-financial-data-visualization'
+  title: 'React Clients Network Data Portfolio',
+  github: 'https://github.com/Dafirm/ReactDisplayInfo',
+  demo: 'https://client-data.netlify.app/'
 },
 
 {
@@ -43,9 +43,9 @@ const data = [
 {
   id: 5,
   image:IMG5,
-  title: 'Crypto Currency Dashboard & Financial Visulaization',
-  github: 'https://github.com',
-  demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-template-infographics-in-Figma'
+  title: 'A PC keyboard based Janko keyboard',
+  github: 'https://github.com/Dafirm/Janko-keyboard',
+  demo: 'https://dafirm-janko-keyboard.netlify.app/'
 },
 
 {
